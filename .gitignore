@@ -161,3 +161,5 @@ cython_debug/
 
 _bak/
 .DS_Store
+
+01_NN_basics/binary_classification_vizualizations/
